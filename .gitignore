@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pth
+*.pt
+*.ckpt
+checkpoints/*
+!checkpoints/.gitkeep
+*.wav
+!assets/*.wav
+outputs/
+.DS_Store
+.ipynb_checkpoints/

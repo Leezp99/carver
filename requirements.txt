@@ -1,0 +1,7 @@
+# Carver inference dependencies.
+# Versions below match the environment the released weights were validated in;
+# newer patch releases generally work, but pin these for bit-exact reproduction.
+torch==2.6.0
+torchaudio==2.6.0
+numpy==2.2.6
+descript-audiotools==0.7.2
